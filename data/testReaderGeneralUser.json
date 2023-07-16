@@ -1,0 +1,17 @@
+{
+    "balance": 100,
+    "gallery": [
+        {
+            "filepath": "filepath/test1.jpg",
+            "price": 100,
+            "name": "test1",
+            "description": ""
+        },
+        {
+            "filepath": "filepath/test2.jpg",
+            "price": 10,
+            "name": "test2",
+            "description": "desc"
+        }
+    ]
+}

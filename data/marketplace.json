@@ -1,0 +1,26 @@
+{"nfts": [
+    {
+        "filepath": "src/main/ui/img/nft1.jpg",
+        "price": 111,
+        "name": "0N1 #4111",
+        "description": ""
+    },
+    {
+        "filepath": "src/main/ui/img/nft5.jpg",
+        "price": 150.5,
+        "name": "0N1 #4115",
+        "description": ""
+    },
+    {
+        "filepath": "src/main/ui/img/nft6.jpg",
+        "price": 25000,
+        "name": "0N1 #4116",
+        "description": ""
+    },
+    {
+        "filepath": "src/main/ui/img/nft3.jpg",
+        "price": 1010.01,
+        "name": "0N1 #4113",
+        "description": ""
+    }
+]}

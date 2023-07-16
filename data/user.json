@@ -1,0 +1,17 @@
+{
+    "balance": 868119.16,
+    "gallery": [
+        {
+            "filepath": "src/main/ui/img/nft2.jpg",
+            "price": 567.71,
+            "name": "0N1 #4112",
+            "description": ""
+        },
+        {
+            "filepath": "src/main/ui/img/nft4.jpg",
+            "price": 131313.13,
+            "name": "0N1 #4114",
+            "description": ""
+        }
+    ]
+}
